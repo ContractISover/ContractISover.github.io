@@ -31,6 +31,13 @@ Once having made the article add it to blog.html
 # License:
 This Project lives under the GNU General Public License V3.0 or later (Aka GPL3.0-or-later)
 
+# Credits:
+Fonts:
+
+* ![Cotham Regular](https://open-foundry.com/fonts/cotham_regular)
+* ![Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans+Arabic?noto.query=arabic&noto.lang=ar_Arab&noto.script=Arab)
+
+
 # I am looking for a Job.
 if you are interested in hiring me feel free to send me a Job offer here: o7saab93@tutanota.com
 
